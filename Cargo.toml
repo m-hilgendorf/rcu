@@ -1,0 +1,8 @@
+[package]
+name = "rcu"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+arc-swap = "1"
+crossbeam = "0.8"
